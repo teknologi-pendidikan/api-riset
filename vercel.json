@@ -5,7 +5,7 @@
   "env": {
     "MONGODB_URI": "@mongodb_uri",
     "MONGODB_COLLECTION": "results",
-    "BASE_URL": "https://api-riset.vercel.app"
+    "BASE_URL": "https://api.riset.teknologipendidikan.or.id"
   },
   "builds": [
     {
